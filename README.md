@@ -9,4 +9,4 @@ projects:
 - nickel electrode research for supercapacitors
 - semi-automated roll-fed labelling machine
 
-find me on linkedin: Antonio B.(https://www.linkedin.com/in/antonio-b-822377385/)]
+find me on linkedin: [Antonio B.](https://www.linkedin.com/in/antonio-b-822377385/)
